@@ -193,6 +193,26 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="_Archive\about.html" />
+    <Content Include="_Archive\contact.html" />
+    <Content Include="_Archive\css\style.css" />
+    <Content Include="_Archive\img\about.jpg" />
+    <Content Include="_Archive\img\apple-touch-icon.png" />
+    <Content Include="_Archive\img\back.jpg" />
+    <Content Include="_Archive\img\contact.jpg" />
+    <Content Include="_Archive\img\favicon.png" />
+    <Content Include="_Archive\img\portfolio\folio01.png" />
+    <Content Include="_Archive\img\portfolio\folio02.png" />
+    <Content Include="_Archive\img\portfolio\folio03.png" />
+    <Content Include="_Archive\img\portfolio\folio04.png" />
+    <Content Include="_Archive\img\portfolio\folio05.png" />
+    <Content Include="_Archive\img\portfolio\folio06.png" />
+    <Content Include="_Archive\img\pr01.jpg" />
+    <Content Include="_Archive\img\pr02.jpg" />
+    <Content Include="_Archive\img\work.jpg" />
+    <Content Include="_Archive\index.html" />
+    <Content Include="_Archive\js\main.js" />
+    <Content Include="_Archive\works.html" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -251,6 +271,7 @@
     <Content Include="Views\Account\ExternalLoginConfirmation.cshtml" />
     <Content Include="Views\Account\DisplayEmail.cshtml" />
     <Content Include="Views\Account\ConfirmEmail.cshtml" />
+    <Content Include="Views\Shared\_OriginalLayout.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
