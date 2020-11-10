@@ -56,5 +56,10 @@ namespace PersonalSiteV7.UI.MVC.Controllers
         {
             return View();
         }
+
+        public ActionResult Classmates()
+        {
+            return View();
+        }
     }
 }

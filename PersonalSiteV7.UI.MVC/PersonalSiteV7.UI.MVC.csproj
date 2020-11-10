@@ -189,6 +189,7 @@
     <Content Include="Content\img\about.jpg" />
     <Content Include="Content\img\apple-touch-icon.png" />
     <Content Include="Content\img\back.jpg" />
+    <Content Include="Content\img\BlaineGomez1.jpg" />
     <Content Include="Content\img\contact.jpg" />
     <Content Include="Content\img\favicon.png" />
     <Content Include="Content\img\JamesEarp.JPG" />
@@ -312,6 +313,7 @@
     <Content Include="Views\Shared\_OriginalLayout.cshtml" />
     <Content Include="Views\Home\EmailConfirmation.cshtml" />
     <Content Include="Views\Home\Resume.cshtml" />
+    <Content Include="Views\Home\Classmates.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
