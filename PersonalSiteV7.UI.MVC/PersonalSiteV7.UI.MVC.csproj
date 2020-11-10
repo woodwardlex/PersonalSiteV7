@@ -191,6 +191,10 @@
     <Content Include="Content\img\back.jpg" />
     <Content Include="Content\img\contact.jpg" />
     <Content Include="Content\img\favicon.png" />
+    <Content Include="Content\img\JamesEarp.JPG" />
+    <Content Include="Content\img\KaseyShilt.jpg" />
+    <Content Include="Content\img\KathrynHudgins.jpg" />
+    <Content Include="Content\img\KolbyWilliams.JPG" />
     <Content Include="Content\img\portfolio\folio01.png" />
     <Content Include="Content\img\portfolio\folio02.png" />
     <Content Include="Content\img\portfolio\folio03.png" />
@@ -201,6 +205,17 @@
     <Content Include="Content\img\pr02.jpg" />
     <Content Include="Content\img\work.jpg" />
     <Content Include="Content\js\main.js" />
+    <Content Include="Content\lib\bootstrap\css\bootstrap.css" />
+    <Content Include="Content\lib\bootstrap\css\bootstrap.min.css" />
+    <Content Include="Content\lib\bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Content\lib\bootstrap\js\bootstrap.js" />
+    <Content Include="Content\lib\bootstrap\js\bootstrap.min.js" />
+    <Content Include="Content\lib\font-awesome\css\font-awesome.css" />
+    <Content Include="Content\lib\font-awesome\css\font-awesome.min.css" />
+    <Content Include="Content\lib\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="Content\lib\jquery\jquery.js" />
+    <Content Include="Content\lib\jquery\jquery.min.js" />
+    <Content Include="Content\lib\php-mail-form\validate.js" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -226,6 +241,16 @@
     <Content Include="_Archive\index.html" />
     <Content Include="_Archive\js\main.js" />
     <Content Include="_Archive\works.html" />
+    <Content Include="Content\lib\bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\lib\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Content\lib\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Content\lib\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="Content\lib\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="Content\lib\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Content\lib\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="Content\lib\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Content\lib\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="Content\img\ResumeOct2020.pdf" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -286,6 +311,7 @@
     <Content Include="Views\Account\ConfirmEmail.cshtml" />
     <Content Include="Views\Shared\_OriginalLayout.cshtml" />
     <Content Include="Views\Home\EmailConfirmation.cshtml" />
+    <Content Include="Views\Home\Resume.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

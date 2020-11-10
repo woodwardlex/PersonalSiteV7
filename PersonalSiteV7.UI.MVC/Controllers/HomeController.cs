@@ -15,18 +15,8 @@ namespace PersonalSiteV7.UI.MVC.Controllers
         }
 
         [HttpGet]
-        public ActionResult About()
-        {
-            ViewBag.Message = "Your app description page.";
-
-            return View();
-        }
-
-        [HttpGet]
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
-
             return View();
         }
 
@@ -59,7 +49,12 @@ namespace PersonalSiteV7.UI.MVC.Controllers
                 return View(cvm);
             }
 
-            return View("Email Confirmation", cvm);
+            return View("EmailConfirmation", cvm);
+        }
+
+        public ActionResult Resume()
+        {
+            return View();
         }
     }
 }

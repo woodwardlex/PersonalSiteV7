@@ -19,7 +19,7 @@ namespace PersonalSiteV7.UI.MVC.Models
 
         [Required(ErrorMessage ="* Message is required")]
         [StringLength(500, ErrorMessage ="* Max 500 characters")]
-        [UIHint("MiltilineText")]
+        [UIHint("MultilineText")]
         public string Message { get; set; }
     }
 }
