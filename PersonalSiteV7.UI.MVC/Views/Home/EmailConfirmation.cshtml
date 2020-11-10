@@ -1,0 +1,28 @@
+﻿@model PersonalSiteV7.UI.MVC.Models.ContactViewModel
+
+@{
+    ViewBag.Title = "Email Confirmation";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<h4>
+    Thank you for contacting me, @Model.Name! Expect a response soon!
+</h4>
+<p>
+    Message details below:
+</p>
+<ul>
+    <li>
+        Name: @Model.Name
+    </li>
+    <li>
+        E-mail: @Model.Email
+    </li>
+    <li>
+        Subject: @Model.Subject
+    </li>
+    <li>
+        Message: @Model.Message
+    </li>
+</ul>
