@@ -46,7 +46,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="@Url.Action("Index", "Home")">INSTANT</a>
+                <a class="navbar-brand" href="@Url.Action("Index", "Home")">Alexis G. Woodward</a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
@@ -130,5 +130,13 @@
     <!-- Template Main Javascript File -->
     <script src="~/Content/js/main.js"></script>
     @RenderSection("scripts", required: false)
+
+    <script>
+        $('.mainmenu ul li a').each(function () {
+            if ($(this).attr('href') == window.location.pathname) {
+                $(this).addClass('active');
+            }
+        });
+    </script>
 </body>
 </html>

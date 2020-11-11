@@ -314,6 +314,7 @@
     <Content Include="Views\Home\EmailConfirmation.cshtml" />
     <Content Include="Views\Home\Resume.cshtml" />
     <Content Include="Views\Home\Classmates.cshtml" />
+    <Content Include="Views\Home\Projects.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
