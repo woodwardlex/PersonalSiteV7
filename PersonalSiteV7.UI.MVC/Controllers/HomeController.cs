@@ -66,5 +66,10 @@ namespace PersonalSiteV7.UI.MVC.Controllers
         {
             return View();
         }
+
+        public ActionResult GitHub()
+        {
+            return View();
+        }
     }
 }
