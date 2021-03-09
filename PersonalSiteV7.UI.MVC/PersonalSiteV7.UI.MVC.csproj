@@ -189,8 +189,9 @@
     <Content Include="Content\img\about.jpg" />
     <Content Include="Content\img\apple-touch-icon.png" />
     <Content Include="Content\img\back.jpg" />
-    <Content Include="Content\img\BlaineGomez1.jpg" />
+    <Content Include="Content\img\BlaineGomez1.png" />
     <Content Include="Content\img\contact.jpg" />
+    <Content Include="Content\img\DungeonApp[527].png" />
     <Content Include="Content\img\favicon.png" />
     <Content Include="Content\img\JamesEarp.jpg" />
     <Content Include="Content\img\JobsonsHomeScreen.jpg" />
