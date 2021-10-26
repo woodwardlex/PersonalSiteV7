@@ -254,7 +254,7 @@
     <Content Include="Content\lib\font-awesome\fonts\fontawesome-webfont.woff" />
     <Content Include="Content\lib\font-awesome\fonts\fontawesome-webfont.woff2" />
     <Content Include="Content\lib\font-awesome\fonts\FontAwesome.otf" />
-    <Content Include="Content\img\Alexis Woodward Resume IT[322].pdf" />
+    <Content Include="Content\img\AlexisWoodwardResumeITOct.pdf" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
