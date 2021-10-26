@@ -255,6 +255,7 @@
     <Content Include="Content\lib\font-awesome\fonts\fontawesome-webfont.woff2" />
     <Content Include="Content\lib\font-awesome\fonts\FontAwesome.otf" />
     <Content Include="Content\img\AlexisWoodwardResumeITOct.pdf" />
+    <Content Include="Content\img\Alexis Woodward.pdf" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -319,6 +320,7 @@
     <Content Include="Views\Home\Classmates.cshtml" />
     <Content Include="Views\Home\Projects.cshtml" />
     <Content Include="Views\Home\GitHub.cshtml" />
+    <Content Include="Views\Home\LetterOfRec.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
